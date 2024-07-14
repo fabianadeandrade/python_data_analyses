@@ -15,4 +15,4 @@
 
 # step 4 - initial analyses of cancelling
 
-# step 5 - analysis of the cancellations cause
+# step 5 - analysis of the cancellations cause using graphics
